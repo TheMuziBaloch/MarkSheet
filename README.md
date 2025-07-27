@@ -15,7 +15,6 @@ A simple web-based marksheet system built with **HTML**, **CSS**, and **JavaScri
 * 📊 Calculates total and grade automatically
 * ❗ Highlights subjects with failing marks (in red)
 * 🧾 Shows full summary in an `alert()` box
-* 🖨️ Printable marksheet in a new tab
 
 ---
 
