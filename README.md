@@ -103,4 +103,4 @@ Click the **"Print Marksheet"** button to open a printable version in a new tab.
 > <img width="1230" height="717" alt="image" src="https://github.com/user-attachments/assets/a01b9301-9318-41cc-8758-a0054e29292f" />
 
 
-Thanks 
+
