@@ -87,7 +87,7 @@ Click the **"Print Marksheet"** button to open a printable version in a new tab.
 2. Open `index.html` in a browser.
 3. Enter subject marks when prompted.
 4. Review the alert summary and see the table update.
-5. Click **"Print Marksheet"** to print or save as PDF.
+
 
 ---
 
