@@ -104,12 +104,4 @@ Click the **"Print Marksheet"** button to open a printable version in a new tab.
 > <img width="1230" height="717" alt="image" src="https://github.com/user-attachments/assets/a01b9301-9318-41cc-8758-a0054e29292f" />
 
 
----
-
-### 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like this in actual `README.md` file format or to generate a downloadable version.
+Thanks 
