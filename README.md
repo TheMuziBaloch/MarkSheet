@@ -1,12 +1,10 @@
 # MarkSheet
 
-Here is a clear and professional **README.md** documentation for your GitHub repository that explains the functionality of your **Student Marksheet Web App** project:
 
----
 
 ## 📄 Student Marksheet Web App
 
-A simple web-based marksheet system built with **HTML**, **CSS**, and **JavaScript**. It allows users to input student subject marks, validates the inputs, calculates total marks and grade, highlights failed subjects, and enables marksheet printing.
+A simple web-based marksheet system built with **HTML**, **CSS**, and **JavaScript**. It allows users to input student subject marks, validates the inputs, calculates total marks and grade, highlights failed subjects.
 
 ---
 
@@ -103,7 +101,8 @@ Click the **"Print Marksheet"** button to open a printable version in a new tab.
 
 ### 📸 Preview
 
-> *(Include a screenshot of the marksheet interface if available)*
+> <img width="1230" height="717" alt="image" src="https://github.com/user-attachments/assets/a01b9301-9318-41cc-8758-a0054e29292f" />
+
 
 ---
 
