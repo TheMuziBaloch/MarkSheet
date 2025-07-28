@@ -78,7 +78,11 @@
                 </table>
                 </center>
                 
-           
+            <div class="button-container">
+
+        <button onclick="PrintMarksheet()">Print Marksheet</button>
+
+    </div>
             </div>
 
      <script>
