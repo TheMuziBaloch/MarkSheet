@@ -74,12 +74,6 @@ A simple web-based marksheet system built with **HTML**, **CSS**, and **JavaScri
 
 ---
 
-### 🖨️ Print Marksheet
-
-Click the **"Print Marksheet"** button to open a printable version in a new tab.
-
----
-
 ### 🚀 How to Use
 
 1. Clone or download this repository.
